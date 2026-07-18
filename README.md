@@ -4,6 +4,59 @@ A production-structured Android app built with Kotlin, Jetpack Compose,
 Material 3, MVVM, Room, and Firebase (Auth + Firestore), matching the
 "Task 4: Language Learning App" brief.
 
+## ScreenShots of App
+
+Home Screen
+
+<img width="702" height="1600" alt="Home Screen" src="https://github.com/user-attachments/assets/7c293f03-1d00-45b1-82ba-85abbf69dea9" />
+
+Add New Word Feature
+
+<img width="702" height="1600" alt="Add New Word" src="https://github.com/user-attachments/assets/13bc9e4f-b7ba-4f04-bf1a-b63bcb15a0e0" />
+
+Add New Word Dialogue
+<img width="702" height="1600" alt="New Word Dialoge" src="https://github.com/user-attachments/assets/baed4207-e51e-4586-86c7-3f473cfcf136" />
+
+Language Selection 
+
+<img width="702" height="1600" alt="Language Selection" src="https://github.com/user-attachments/assets/003865ba-9fb4-4008-8d27-a92ac080993b" />
+
+Language Level 
+
+<img width="702" height="1600" alt="Langauge Level" src="https://github.com/user-attachments/assets/4df98002-d20d-4fde-bdff-e18e4925a1f0" />
+
+Daily Learning Time of Language
+
+<img width="702" height="1600" alt="Daily Learning Time" src="https://github.com/user-attachments/assets/bf1c5dc8-f4d2-4973-88b0-00ed224580f4" />
+
+Greetings Screen
+
+<img width="702" height="1600" alt="Greetings" src="https://github.com/user-attachments/assets/573c0219-55a9-43fb-ba95-2336cb3b89b2" />
+
+Daily Lessons
+
+<img width="702" height="1600" alt="Lessons" src="https://github.com/user-attachments/assets/26b8deb0-1b9e-4d80-9f67-4454aa3a621a" />
+
+Daily Quiz Screen
+
+<img width="702" height="1600" alt="Quiz " src="https://github.com/user-attachments/assets/6145e09c-bbd2-4205-81e1-3577ca9d20d9" />
+
+Progress Screen
+
+<img width="702" height="1600" alt="Practice Screen" src="https://github.com/user-attachments/assets/04d5aa14-c322-4366-b0fb-d2110a6c098f" />
+
+Quiz 
+
+<img width="702" height="1600" alt="Quiz Screen" src="https://github.com/user-attachments/assets/b432752e-3a7a-470e-b7e3-c6f9c2f4caeb" />
+
+User Profile
+<img width="702" height="1600" alt="Profile Screen" src="https://github.com/user-attachments/assets/4e536584-7772-40d2-b4cc-a253afc12164" />
+
+Settings Screen
+
+<img width="702" height="1600" alt="Setting Screen" src="https://github.com/user-attachments/assets/3c441989-2687-4745-ba5a-9f75ad191c34" />
+
+
 ## Features implemented
 
 - **Splash screen** with animated logo and auto-navigation
