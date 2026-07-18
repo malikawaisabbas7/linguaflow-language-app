@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62337415739",
+    "project_id": "language-learning-app-9a3b4",
+    "storage_bucket": "language-learning-app-9a3b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62337415739:android:03fc1e73b42fa5b243ba1e",
+        "android_client_info": {
+          "package_name": "com.linguaflow.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RZrciProVJPPxGYSlIUhL6ReEEbzwuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_purple">#6D28D9</color>
+    <color name="sunshine_yellow">#FACC15</color>
+    <color name="teal_accent">#14B8A6</color>
+    <color name="background_light">#F9FAFB</color>
+    <color name="background_dark">#111827</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="card_dark">#1F2937</color>
+</resources>
